@@ -1,0 +1,28 @@
+h1 {
+   color: lightgreen; text-align: center; 
+}
+
+h3 {
+    color: Blue;
+}
+
+p {
+    color: red;
+}
+
+#parentBorder {
+border: solid 10px black;
+border-radius: 30px;
+background-color: gray;
+}
+
+.truthLie {
+    border: solid 2px white;
+    border-radius: 20px;
+    background-color: lightgray;
+}
+
+#align {
+    display: flex;
+    justify-content: space-evenly;
+}
